@@ -8,6 +8,8 @@ Running
 2. Start the xampp server
 3. local host 'http://localhost/phpmyadmin/index.php' create a new database name register
 4. import the register.sql file and insert data into database
+
+NOTE : the username and password are random one we created here you need to register and then login then we can able to acess data from database local host
 5. in visual studio code change path to server folder and then click
      npm start
 6. then after to run front end change the path to client the click 
